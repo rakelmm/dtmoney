@@ -32,7 +32,7 @@ export function NewTransactionModal({ isOpen, onRequestClose }: NewTransactionMo
             </button>
 
             <Container>
-                <h2>Cadatrar transação</h2>
+                <h2>Cadastrar transação</h2>
 
                 <input
                     placeholder="Título"
