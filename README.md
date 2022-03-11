@@ -5,7 +5,7 @@ No módulo II da trilha ReactJS do Ignite foi contruída uma aplicação front-e
 
 
 <p align="center">
-    <img alt="Imagem do projeto" src="src/assets/projeto.png" width="100%">
+    <img alt="Imagem do projeto" src="src/assets/dtmoney.png" width="100%">
 </p>
 
 <p align="center">
